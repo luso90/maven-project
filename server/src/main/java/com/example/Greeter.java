@@ -9,6 +9,7 @@ public class Greeter {
   }
   
   public void fct01() {
+    ]
     
       
   /**
