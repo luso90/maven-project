@@ -8,7 +8,7 @@ public class Greeter {
 
   }
   
-  public fct01() {
+  public void fct01() {
     )
   /**
   * @param someone name of a person
